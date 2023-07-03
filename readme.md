@@ -18,14 +18,11 @@
 
 ## LIVE
 
-
-https://user-images.githubusercontent.com/131458541/235695571-b715c508-2484-458b-8e47-d0c724f4f74a.mp4
-
-
+https://github.com/NILESHSINGH234/Wheather-App/assets/131458541/82b9a41f-b136-4fe8-adce-61ffbdf87470
 
 
 ## Link
-[Cool Button](https://button-ashen.vercel.app/)
+[Wheather APP](https://wheather-app-ruddy.vercel.app/)
 
 
 
